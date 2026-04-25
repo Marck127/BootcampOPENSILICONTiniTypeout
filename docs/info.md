@@ -13,8 +13,8 @@ No se que es pero funciona.
 
 ## How to test
 
-Explain how to use your project
+Con las entradas suma de forma binaria
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Solo son compuertas que pueden usarte con TTLs 2 leds, resistencias y resistencias.
